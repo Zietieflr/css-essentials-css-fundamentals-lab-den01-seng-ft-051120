@@ -37,7 +37,7 @@ figcaption {
 #details > div {
   text-align:center;
   display: inline-block;
-  background-color: white; 
+  width: 25%;
 }
 
 
