@@ -28,6 +28,9 @@ figcaption {
   display: inline-block;
 }
 
-#details 
+#details {
+  background-color: red;
+  display: inline-block;
+}
 
 
